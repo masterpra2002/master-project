@@ -4,5 +4,5 @@ PROJECT MASTER SOLUTION
 2. Mengubah semua desktop app ke mobile app secara bertahap
 3. Hunting junior programmer QS1
 4. Focus Finance App
-5. Menguatkan IT di Muhammadiyah
+
 
