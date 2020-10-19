@@ -2,5 +2,6 @@ ISLAMIC PROJECT BY MASTER SOLUTION
 ----------------------------------
 1. Penelusuran hadist
 2. silsilah nabi, rasul, sahabat, tabi'in, imam dan ulama
+  * membuat visual islami masing-masing pribadinya
 3. Menguatkan hafalan
   * menulis ulang al quran dari surat An Naas
